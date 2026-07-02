@@ -118,7 +118,7 @@ Google Search (148) and Instagram (145) together bring in nearly **60% of all ne
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/customer-shopping-behavior.git
+  https://github.com/shivanshubhardwaj0403/customer-behaviour-analysis-sql-powerbi/edit/main
    ```
 
 2. **Import the CSV files** into MS SQL Server
